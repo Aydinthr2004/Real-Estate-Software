@@ -1,0 +1,89 @@
+This user has added a property for sale : 
+The information 1th of the users who entered the order of the property is : 
+dani
+3
+dani
+seyed
+4380501254
+09127881200
+se
+1402
+10
+13
+
+
+This user has added a property for sale : 
+
+The information 1th of the users who entered the order of the property is : 
+dani
+3
+dani
+seyed
+4380501254
+09127881200
+se
+1402
+10
+13
+
+
+This user has added a property for sale : 
+
+The information of the users who entered the order of the property is : 
+User name : dani
+Password : 3
+Name : dani
+Family Name : seyed
+User Code : 4380501254
+Phone Number : 09127881200
+Email : se
+Year : 1402
+month : 10
+day : 13
+
+
+This user has added a property for sale : 
+
+The information of the users who entered the order of the property is : 
+User name : Dani
+Password : danidani
+Name : danyal
+Family Name : seyed
+User Code : 4300909983
+Phone Number : 09395909983
+Email : seyed@gmail.com
+Year : 1402
+month : 11
+day : 10
+
+
+
+The information of the users who entered the order of the property is : 
+User name : dani
+Password : 3
+Name : dani
+Family Name : seyed
+User Code : 4380501254
+Phone Number : 09127881200
+Email : se
+Year : 1402
+month : 10
+day : 13
+
+
+This user has added a property for sale : 
+
+The information of the users who entered the order of the property is : 
+User name : dani
+Password : 3
+Name : dani
+Family Name : seyed
+User Code : 4380501254
+Phone Number : 09127881200
+Email : se
+Year : 1402
+month : 10
+day : 13
+
+
+This user has added a property for sale : 
